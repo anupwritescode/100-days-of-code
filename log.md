@@ -26,10 +26,18 @@
 
 **Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
 
-### Day 2: June 22, Monday
+### Day 2: June 22, Tuesday
 
 **Today's Progress**: Added winning logic to the app
 
 **Thoughts** I thought a lot about the most efficient way to check this. Ended up writing if condition for all the 8 situations. 
+
+**Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
+
+### Day 3: June 23, Wednesday
+
+**Today's Progress**: Added logic to highlight winning triplet
+
+**Thoughts** I first tried with ngStyles binding to the boxes, that didn't work. So, I bound the row and column with id of that element. I faced a weird issue when applying styles using id. I will fix that issue tomorrow. 
 
 **Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
