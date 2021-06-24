@@ -41,3 +41,11 @@
 **Thoughts** I first tried with ngStyles binding to the boxes, that didn't work. So, I bound the row and column with id of that element. I faced a weird issue when applying styles using id. I will fix that issue tomorrow. 
 
 **Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
+
+### Day 4: June 24, Thursday
+
+**Today's Progress**: Fixed highlight issue, added start a new game button
+
+**Thoughts** The last element of the winning triplet wasn't being highlighted because the HTML element was being updated with X or O after the highlight class was added. Learnt Angular data bindings work asynchronously. To fix that I added a wait time of 50 ms before winning logic could be called. I learned something new today.
+
+**Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
