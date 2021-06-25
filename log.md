@@ -49,3 +49,11 @@
 **Thoughts** The last element of the winning triplet wasn't being highlighted because the HTML element was being updated with X or O after the highlight class was added. Learnt Angular data bindings work asynchronously. To fix that I added a wait time of 50 ms before winning logic could be called. I learned something new today.
 
 **Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
+
+### Day 5: June 25, Friday
+
+**Today's Progress**: Fixed overwrite issue, added logic for draw, added bootstrap and fixed CSS of boxes
+
+**Thoughts** I cool side-effect of my code I found today was after a draw and starting a new game, the turns switched but not after a win. This is usually the case in games. Made the app responsive.
+
+**Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
