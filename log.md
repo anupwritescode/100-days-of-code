@@ -54,6 +54,16 @@
 
 **Today's Progress**: Fixed overwrite issue, added logic for draw, added bootstrap and fixed CSS of boxes
 
-**Thoughts** I cool side-effect of my code I found today was after a draw and starting a new game, the turns switched but not after a win. This is usually the case in games. Made the app responsive.
+**Thoughts** A cool side-effect of my code that I found today was, when starting a new game after a draw result, the turns switched from 'X' to 'O' or vice versa, but this didn't happen after a win result. This is usually the case in games. Made the app responsive.
 
 **Link(s) to work**: [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe)
+
+### Day 6: June 26, Saturday
+
+**Today's Progress**: Fixed CSS issue in mobile devices, fixed logic for new game. Created a screenshot app in python with GUI
+
+**Thoughts** Added the tictactoe app to GitHub pages. Learned how to take screenshot through Python. Need better UI for both my apps, might take a UX course to understand the subject better.
+
+**Link(s) to work**: 
+1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
+2. [Screen Grab App](https://github.com/anupwritescode/screen-grab)
