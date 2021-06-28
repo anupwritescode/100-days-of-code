@@ -67,3 +67,13 @@
 **Link(s) to work**: 
 1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
 2. [Screen Grab App](https://github.com/anupwritescode/screen-grab)
+
+### Day 7: June 28, Monday
+
+**Today's Progress**: Displayed current turn in tictactoe game app. Created a new app - Calculator
+
+**Thoughts** I have listed down the things I will be adding to my projects in the coming days. So I have a plan on how to go forward with this.
+
+**Link(s) to work**: 
+1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
+2. [Calculator App](https://github.com/anupwritescode/calculator-app)
