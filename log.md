@@ -77,3 +77,13 @@
 **Link(s) to work**: 
 1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
 2. [Calculator App](https://github.com/anupwritescode/calculator-app)
+
+### Day 8: June 29, Tuesday
+
+**Today's Progress**: Changed CSS for tictactoe game app. Started solving hackerearth problems
+
+**Thoughts** CSS of the app is now as you would expect of the game. Need to make the strikethrough animation for the winning triplet. Started solving hackerearth problems to improve my algorithmic skills. Need to focus on all projects equally.
+
+**Link(s) to work**: 
+1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
+2. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
