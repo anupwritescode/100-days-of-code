@@ -87,3 +87,12 @@
 **Link(s) to work**: 
 1. [Tic-Tac-Toe App](https://github.com/anupwritescode/tictactoe) --> [Demo](https://anupwritescode.github.io/tictactoe)
 2. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+
+### Day 9: June 30, Wednesday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms
+
+**Thoughts** I now remember why I used to hate competitive programming so much. The problem description is terse, some times vital information is missing and questions are framed to intellectually emasculate other programmers, rather than promote a critical thinking. I think if I stick to it long enough, I'll get the hang of the language and develop ability to understand the problems faster. 
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
