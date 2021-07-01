@@ -96,3 +96,12 @@
 
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+
+### Day 10: July 1, Thursday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms
+
+**Thoughts** I didn't get a lot done today.
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
