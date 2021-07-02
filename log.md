@@ -101,7 +101,16 @@
 
 **Today's Progress**: Solved hackerearth practice problems from algorithms
 
-**Thoughts** I didn't get a lot done today.
+**Thoughts** I didn't get a lot done today. I need to start using data structures in my apps where ever they fit. Sadly apart from lists or arrays and hashmaps I've not used any other.
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+
+### Day 11: July 2, Friday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms
+
+**Thoughts** I learned how to calculate the lowest point of a function from one of the problems. 
 
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
