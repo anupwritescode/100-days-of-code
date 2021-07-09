@@ -123,3 +123,13 @@
 
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+
+### Day 13: July 9, Friday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms. Created new repository for screen recorder app I was working on
+
+**Thoughts** It was a tough week. I finally got the screen recording script to work. It was a screen resolution issue. I need to find a way to get the screen resolution and set it so it works everytime.
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+2. [Screen Recorder App](https://github.com/anupwritescode/screen-recorder)
