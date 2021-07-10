@@ -133,3 +133,13 @@
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
 2. [Screen Recorder App](https://github.com/anupwritescode/screen-recorder)
+
+### Day 14: July 10, Saturday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms.
+
+**Thoughts** Not many thoughts today.
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+
