@@ -143,3 +143,13 @@
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
 
+### Day 15: July 18, Sunday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms. Changed screen recorder app to get screen resolution automatically.
+
+**Thoughts** Starting again after taking a break. 
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+2. [Screen Recorder App](https://github.com/anupwritescode/screen-recorder)
+
