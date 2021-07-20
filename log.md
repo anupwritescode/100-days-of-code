@@ -153,3 +153,12 @@
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
 2. [Screen Recorder App](https://github.com/anupwritescode/screen-recorder)
 
+### Day 16: July 20, Tuesday
+
+**Today's Progress**: Solved hackerearth practice problems from algorithms. Started solving LeetCode interview problems. 
+
+**Thoughts** The problems on LeetCode are well-defined and much better than Hackerearth, so I'm going to stick to solving problems there.
+
+**Link(s) to work**: 
+1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
+2. [Leetcode](https://github.com/anupwritescode/leetcode)
