@@ -162,3 +162,12 @@
 **Link(s) to work**: 
 1. [Hackerearth Python](https://github.com/anupwritescode/hackerearth-python)
 2. [Leetcode](https://github.com/anupwritescode/leetcode)
+
+### Day 17: July 21, Wednesday
+
+**Today's Progress**: Solved an easy LeetCode interview problem. 
+
+**Thoughts** Didn't put in much time today. Will try to compensate for it tomorrow.
+
+**Link(s) to work**: 
+1. [Leetcode](https://github.com/anupwritescode/leetcode)
