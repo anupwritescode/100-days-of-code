@@ -171,3 +171,12 @@
 
 **Link(s) to work**: 
 1. [Leetcode](https://github.com/anupwritescode/leetcode)
+
+### Day 18: July 29, Thursday
+
+**Today's Progress**: Solved LeetCode interview problems. 
+
+**Thoughts** I'm determined to keep working on this. Solved a few more problems today. I love the problems here, at least the ones I've seen so far. The language used is proper and does not assume knowledge of computer science or maths. It's a very good website for beginners like me.
+
+**Link(s) to work**: 
+1. [Leetcode](https://github.com/anupwritescode/leetcode)
