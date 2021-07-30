@@ -180,3 +180,13 @@
 
 **Link(s) to work**: 
 1. [Leetcode](https://github.com/anupwritescode/leetcode)
+
+### Day 19: July 30, Friday
+
+**Today's Progress**: Solved LeetCode practice problems. 
+
+**Thoughts** Had fun solving problems today. :) 
+
+**Link(s) to work**: 
+1. [Leetcode](https://github.com/anupwritescode/leetcode)
+
